@@ -19,15 +19,6 @@ Text file where:
 - Each subsequent line identifies the path from one node to another
 
 ex. <br>
-4 4 <br>
-1 2 <br>
-2 3 <br>
-3 4 <br>
-4 1 <br>
-
-This can also be done in the same format as a standard input on the command line. This code is commented out at the bottom of the file.
-
-ex. <br>
 6 7 <br>
 0 2 <br>
 1 3 <br>
@@ -36,6 +27,8 @@ ex. <br>
 4 0 <br>
 5 0 <br>
 5 1 <br>
+
+This can also be done in the same format as a standard input on the command line. This code is commented out at the bottom of the file.
 
 ### Output:
 The sink component nodes (or "safe nodes"), in numerical order.

@@ -18,12 +18,12 @@ Text file where:
 - First line is the total number of nodes and edges
 - Each subsequent line identifies the path from one node to another
 
-ex.
-4 4
-1 2
-2 3
-3 4
-4 1
+ex. <br>
+4 4 <br>
+1 2 <br>
+2 3 <br>
+3 4 <br>
+4 1 <br>
 
 This can also be done in the same format as a standard input on the command line. This code is commented out at the bottom of the file.
 
